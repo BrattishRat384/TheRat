@@ -1,3 +1,1 @@
-Menu: https://codepen.io/Hyperplexed/pen/bGvejNY?editors=0010
-Hover Boxes?: https://codepen.io/Hyperplexed/pen/bGvejNY?editors=0010
-PFP: https://codepen.io/Hyperplexed/pen/vYzgeYE
+Base page: https://codepen.io/jh3y/pen/mdvYeXZ
