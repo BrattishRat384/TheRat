@@ -1,3 +1,9 @@
-## TheRat
-This project is designed to use the github service hosting service.
-This project hosts a website for brattishrat384.xyz
+#    The Rat
+
+> A random website | Find more <a href="https://brattishrat384.xyz/" target="_blank">here</a>
+---
+> What is this?
+> - This is a website designed for @BrattishRat384 by @BrattishRat384
+> - This website is just a shit show
+
+
