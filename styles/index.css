@@ -66,7 +66,7 @@
   nav a {
 	  width: 54px;
 	  display: inline-block;
-	  aspect-ratio: 2;
+	  aspect-ratio: 21 / 9;
 	  color: white;
   }
   
