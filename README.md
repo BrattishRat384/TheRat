@@ -5,5 +5,11 @@
 > What is this?
 > - This is a website designed for @BrattishRat384 by @BrattishRat384
 > - This website is just a shit show
-
-
+---
+> To do:
+> - Add Portfolio
+> - Finish about page
+> - Fix links
+> - Fix Nav
+> - Fix images
+> - Also not a shit show :)
