@@ -64,9 +64,9 @@
   }
   
   nav a {
-	  width: 52px;
+	  width: 54px;
 	  display: inline-block;
-	  aspect-ratio: auto;
+	  aspect-ratio: 2;
 	  color: white;
   }
   
