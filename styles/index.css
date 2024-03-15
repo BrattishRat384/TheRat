@@ -37,8 +37,8 @@
   nav {
 	  position: sticky;
 	  top: 0;
-	  left: 0;
-	  right: 0;
+	  left: 15px;
+	  right: 15px;
 	  height: 80px;
 	  z-index: 3;
 	  display: flex;
