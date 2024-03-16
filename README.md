@@ -7,7 +7,8 @@
 > - This website is just a shit show
 ---
 > To do:
-> - Add Portfolio
+> - Finish Portfolio
 > - Finish about page
+> - Finish Social
 ---
 > Also not a shit show (Some how :))
