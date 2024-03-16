@@ -9,7 +9,5 @@
 > To do:
 > - Add Portfolio
 > - Finish about page
-> - Fix links
-> - Fix Nav
-> - Fix images
-> - Also not a shit show :)
+---
+> Also not a shit show (Some how :))
