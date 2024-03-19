@@ -12,3 +12,6 @@
 > - Finish Social
 ---
 > Also not a shit show (Some how :))
+---
+Please check out the sources
+https://brattishrat384.xyz/misc/sources.txt
