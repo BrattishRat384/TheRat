@@ -13,4 +13,4 @@
 ---
 > Also not a shit show (Some how :))
 ---
-Please check out the <a href="https://brattishrat384.xyz/misc/sources.txt" target="_blank">sources</a>
+> Please check out the <a href="https://brattishrat384.xyz/misc/sources.txt" target="_blank">sources</a>
