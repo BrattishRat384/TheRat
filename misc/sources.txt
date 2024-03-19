@@ -1,4 +1,3 @@
 Base page: https://codepen.io/jh3y/pen/mdvYeXZ
-React boxes: https://codepen.io/jh3y/pen/WNmQXyE
 Github SVG: https://www.svgrepo.com/svg/521688/github
 most imgs are mine :)
