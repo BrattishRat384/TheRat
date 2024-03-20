@@ -7,9 +7,8 @@
 > - This website is just a ~~shit show~~ website :) 
 ---
 > To do:
-> - Finish Portfolio
-> - Finish about page
-> - Fix Social (LOOKS LIKE SHIT)
+> - Update about page
+> - Fix links in Social page (Text decoration = none)
 ---
 > Also not a shit show (Some how :))
 ---
