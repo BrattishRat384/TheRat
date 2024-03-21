@@ -14,7 +14,7 @@
   }
   
   body {
-	text-decoration: none;
+	  text-decoration: none;
 	  background: hsl(0 0% 8%);
 	  color: hsl(0 0% 98%);
 	  font-family:  "Geist Sans", "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif, system-ui;
@@ -47,6 +47,7 @@
 	  padding: 0 1rem;
 	  background: transparent;
 	  box-shadow: 0 0 0 0 black;
+	  text-decoration: none;
   }
   
   .nav__content {
@@ -54,7 +55,7 @@
   }
   
   nav::after {
-	text-decoration: none;
+	  text-decoration: none;
 	  content: "";
 	  position: absolute;
 	  top: 0;
@@ -66,7 +67,7 @@
   }
   
   nav a {
-	text-decoration: none;
+	  text-decoration: none;
 	  width: 48px;
 	  display: inline-block;
 	  aspect-ratio: 1;
