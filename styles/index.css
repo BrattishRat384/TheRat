@@ -127,6 +127,7 @@
   main {
 	  display: grid;
 	  gap: 2rem;
+	  text-decoration: none;
   }
   
   main p {
