@@ -2,7 +2,7 @@
 	font-family: "Geist Sans";
 	src: url("https://assets.codepen.io/605876/GeistVF.ttf") format("truetype");
   }
-
+  
   *,
   *:after,
   *:before {
@@ -37,8 +37,8 @@
   nav {
 	  position: sticky;
 	  top: 0;
-	  left: 15px;
-	  right: 15px;
+	  left: 0;
+	  right: 0;
 	  height: 80px;
 	  z-index: 3;
 	  display: flex;
@@ -70,7 +70,7 @@
 	  color: white;
   }
   
-  nav a img {
+  nav a svg {
 	  height: 100%;
   }
   
@@ -117,7 +117,6 @@
   img {
 	  aspect-ratio: 16 / 9;
 	  width: 100%;
-	  height: auto;
 	  object-fit: cover;
   }
   
