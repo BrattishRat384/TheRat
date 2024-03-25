@@ -1,15 +1,16 @@
 #    The Rat
 
-> A random website | Find more <a href="https://brattishrat384.xyz/" target="_blank">here</a>
+> A random website | Find more <a href="https://brattishrat384.xyz/" target="_blank">here.</a>
 ---
 > What is this?
-> - This is a website designed for @BrattishRat384 by @BrattishRat384
-> - This website is just a ~~shit show~~ website :) 
+> - This is a website designed for @BrattishRat384 by @BrattishRat384.
+> - This website is just a ~~shit show~~ website. :) 
 ---
 > To do:
-> - Update about page (Updated filler img)
-> - Fix links in Social page (Text decoration = none)
+> - Update about page. (Updated filler img)
+> - Fix links in Social page. (Text decoration = none)
 ---
-> Also not a shit show (Some how :))
+> Also not a shit show. (Some how :))
+> This is still a work in progress so this site is still not fully completed.
 ---
-> Please check out the <a href="https://brattishrat384.xyz/misc/sources.txt" target="_blank">sources</a>
+> Please check out the <a href="https://brattishrat384.xyz/misc/sources.txt" target="_blank">sources.</a>
