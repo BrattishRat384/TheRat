@@ -7,7 +7,6 @@
 > - This website is just a ~~shit show~~ website. :) 
 ---
 > To do:
-> - Update about page. (Updated filler img)
 > - Fix links in Social page. (Text decoration = none)
 ---
 > Also not a shit show. (Some how :))
