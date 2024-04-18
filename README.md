@@ -1,6 +1,6 @@
 #    The Rat
 
-> A random website | Find more <a href="https://brattishrat384.xyz/" target="_blank">here.</a>
+> A random website | Find more <a href="https://brattishrat384.xyz/" target="_blank">here.</a> | Old site <a href="https://old.brattishrat384.xyz/" targer="_blank"> here.</a>
 ---
 > What is this?
 > - This is a website designed for @BrattishRat384 by @BrattishRat384.
@@ -8,6 +8,7 @@
 ---
 > To do:
 > - Fix links in Social page. (Text decoration = none)
+> - Update linux thing. (constant.)
 ---
 > Also not a shit show. (Some how :))
 > This is still a work in progress so this site is still not fully completed.
