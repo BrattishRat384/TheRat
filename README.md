@@ -8,6 +8,7 @@
 ---
 > To do:
 > - Fix links in Social page. (Text decoration = none)
+> - Fix nav. (Fix overlay.)
 > - Update linux thing. (constant.)
 ---
 > Also not a shit show. (Some how :))
