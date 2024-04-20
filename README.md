@@ -14,4 +14,5 @@
 > Also not a shit show. (Some how :))
 > This is still a work in progress so this site is still not fully completed.
 ---
+> Some sources located at bottom respective page, sources used for all pages located bellow:
 > Please check out the <a href="https://brattishrat384.xyz/misc/sources.txt" target="_blank">sources.</a>
