@@ -7,10 +7,7 @@
 > - This website is just a ~~shit show~~ website. :) 
 ---
 > To do:
-> - Fix links in Social page. (Text decoration = none)
-> - Fix nav. (Fix overlay.)
-> - Update linux thing. (constant.)
-> - Fix video's.
+> - TODO has been moved to the issues section on this page. <a href="https://github.com/BrattishRat384/TheRat/issues" target="_blank">here.</a>
 ---
 > Also not a shit show. (Some how :))
 > This is still a work in progress so this site is still not fully completed.

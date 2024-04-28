@@ -7,8 +7,7 @@
 > - this will have a copy of the main files (.css) to be a sub-folder.
 ---
 > To do:
-> - Add posts.
-> - Add subpages.
+> - TODO has been moved to the issues section on this page. <a href="https://github.com/BrattishRat384/TheRat/issues" target="_blank">here.</a>
 ---
 > Please check out the <a href="https://brattishrat384.xyz/" target="_blank">main page.</a>
 > Please check out the <a href="https://brattishrat384.xyz/misc/sources.txt" target="_blank">sources.</a>
