@@ -133,6 +133,10 @@
 	  text-decoration: none;
   }
   
+  video {
+    object-fit: cover;
+  }
+
   a:link { 
 	text-decoration: none; 
   } 
