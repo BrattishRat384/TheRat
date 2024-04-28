@@ -10,6 +10,7 @@
 > - Fix links in Social page. (Text decoration = none)
 > - Fix nav. (Fix overlay.)
 > - Update linux thing. (constant.)
+> - Fix video's.
 ---
 > Also not a shit show. (Some how :))
 > This is still a work in progress so this site is still not fully completed.
